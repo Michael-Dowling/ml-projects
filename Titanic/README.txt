@@ -1,3 +1,5 @@
+#Titanic Machine Learning Challenge
+
 Two approaches to the Titanic Machine Learning challenge at kaggle.com
 (https://www.kaggle.com/c/titanic)
 
